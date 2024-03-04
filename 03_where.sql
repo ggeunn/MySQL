@@ -167,7 +167,7 @@ WHERE
 SELECT
 	category_code,
     category_name,
-    ref_category_code
+    ref_category_codetbl_paymenttbl_payment
 FROM
 	tbl_category
 WHERE
